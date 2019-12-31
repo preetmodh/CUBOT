@@ -1,13 +1,13 @@
 using UnityEngine;
 
-public class EndTrigger : MonoBehaviour
-{
+    public class EndTrigger : MonoBehaviour
+        {
 
-    public GameManager gameManager;
+         public GameManager gameManager;
 
-    void OnTriggerEnter()
-    {
-        gameManager.CompleteLevel();
-    }
+         void OnTriggerEnter()
+            {
+             gameManager.CompleteLevel();
+            }
 
-}
+        }
