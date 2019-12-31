@@ -1,4 +1,3 @@
-﻿
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -9,7 +8,5 @@ public class menu : MonoBehaviour
     {
         SceneManager.LoadScene("Level01");
     }
-
-
 }
   
