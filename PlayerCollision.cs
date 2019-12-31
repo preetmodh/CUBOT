@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerCollision : MonoBehaviour {
+	public class PlayerCollision : MonoBehaviour {
 
 	public PlayerMovement movement;     
 	
