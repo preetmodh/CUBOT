@@ -1,4 +1,4 @@
-# unity-projects
+# unity-project
 scripts of a game i made named cubot in unity
 
 
